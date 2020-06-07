@@ -11,4 +11,6 @@
 6. Weather.csv - Contains the data of the weather in the regions of South Korea
 7. SeoulFloating.csv - Contains floating population data for various districts of Seoul and different age groups.
 
+![Inferences](https://github.com/adich23/Probability-and-Statistics-for-Data-Scientists/blob/master/Project/inferences-2.png?raw=true)
+
 Source - https://www.kaggle.com/kimjihoo/coronavirusdataset
